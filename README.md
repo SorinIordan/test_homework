@@ -1,0 +1,1 @@
+I learnet to navigate using the git bash app and to use severall commnads (init, add, create a branch, push, etc.).
